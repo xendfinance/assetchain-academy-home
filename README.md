@@ -25,6 +25,7 @@ Download and install this repository to use as a boilerplate to build any kind o
 
 ## BEGINNER TUTORIALS REPOS
  - [Write & Deploy an NFT](https://github.com/xendfinance/assetchain-starterkits)
+ - [Mint an NFT](https://github.com/AssetChain-Academy/Mint-an-Nft)
  ## INTERMEDIATE  TUTORIALS REPOS
 
 ## ADVANCED TUTORIALS REPOS
