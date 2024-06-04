@@ -16,21 +16,21 @@ Beginner developers will find tons of useful courses, walkthroughs and starter k
 We are always looking for contributions from the community. Do you want to;
   - showcase your cool Dapp built on Asset Chain
   - build a new tool/plugin?
-  - contribute tutorials, resources to our Academy
+  - contribute tutorials, resources to our Academy<br>
+
 PR's are always welcome, as long as they are relevant to Asset Chain and properly documented(Demos are highly recommended)
 
-## Asset Chain Startkits
-Download and install the repository below, to use as a boilerplate to build your Dapp's.
+## Asset Chain Starter-kits
+Download and install the repository below, to use as a boilerplate for building your Dapp's.
+ - [Asset Chain Startkit](https://github.com/xendfinance/assetchain-starterkits)
 
-[Asset Chain Startkit](https://github.com/xendfinance/assetchain-starterkits)
-
-## BEGINNER TUTORIALS
+### BEGINNER TUTORIALS
  - [Write & Deploy an NFT](https://github.com/xendfinance/Write-Deploy-an-NFT)
  - [Mint an NFT](https://github.com/xendfinance/Mint-an-Nft)
  - [Payments](https://github.com/xendfinance/fund-me-tutorial)
   
-## INTERMEDIATE  TUTORIALS
+### INTERMEDIATE  TUTORIALS
  - [MultiSig Wallet](https://github.com/xendfinance/multisig-wallet-client)
 
-## ADVANCED TUTORIALS
+### ADVANCED TUTORIALS
   - [EVM-Gas-Optimizations](https://github.com/0xKitsune/EVM-Gas-Optimizations)
