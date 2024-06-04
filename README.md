@@ -1,4 +1,4 @@
-# AssetChain Academy
+# Asset Chain Academy
 
 Welcome to the AssetChain Academy!
 
